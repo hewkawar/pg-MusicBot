@@ -1,0 +1,21 @@
+{
+    "commands.help.excute.title": "Bot Manual",
+    "commands.ping.excute.reply": "Ping",
+    "commands.ping.excute.discord.ping": "Discord API",
+    "common.invitebot": "Invite Bot",
+    "common.ms": "ms",
+    "common.version": "Version",
+    "help.help.value": "Manual",
+    "help.ping.value": "Discord API Latency",
+
+    "commands.play.excute.album": "Album",
+    "commands.play.excute.voice_chat": "Voice Channel",
+    "commands.play.excute.owner": "Owner",
+    "commands.play.excute.download": "Downloading for the first time.",
+    "commands.play.excute.start_playing": "Start Playing",
+    "commands.play.excute.view": "View",
+    "commands.leave.excute.success": "Leave from Voice Channel Success",
+    "commands.leave.excute.not_in_voice_channel": "Bot is not Join in Voice Channel",
+    "commands.joib.excute.success": "Join Voice Channel Success",
+    "commands.joib.excute.already_join": "Bot Already Join in Voice Channel"
+}

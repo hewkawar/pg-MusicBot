@@ -1,0 +1,21 @@
+{
+    "commands.help.excute.title": "คู่มือการใช้งาน",
+    "commands.ping.excute.reply": "ตีกลับมาแล้ว",
+    "commands.ping.excute.discord.ping": "Discord API",
+    "common.invitebot": "เชิญบอท",
+    "common.ms": "มิลลิวิ",
+    "common.version": "เวอร์ชั่น",
+    "help.help.value": "คู่มือการใช้งาน",
+    "help.ping.value": "ปิงของบอท",
+
+    "commands.play.excute.album": "อัลบั้ม",
+    "commands.play.excute.voice_chat": "ช่องเสียง",
+    "commands.play.excute.owner": "โดย",
+    "commands.play.excute.download": "เริ่มดาวน์โหลดเพลงนี้สำหรับครั้งแรก",
+    "commands.play.excute.start_playing": "เริ่มเล่น",
+    "commands.play.excute.view": "การดู",
+    "commands.leave.excute.success": "ออกจากห้องเสียง",
+    "commands.leave.excute.not_in_voice_channel": "บอทไม่ได้อยู่ในห้องเสียง",
+    "commands.joib.excute.success": "เข้าห้องเสียงแล้ว",
+    "commands.joib.excute.already_join": "บอทอยู่ในห้องเสียงอยู่แล้ว"
+}
