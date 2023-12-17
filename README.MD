@@ -67,4 +67,18 @@ Additionally, create a `spotify.json` file with the following data:
 
 * SPOTIFY_APPLICATION_CLIENT_ID & SPOTIFY_APPLICATION_CLIENT_SECRET: Get these from your [Spotify Developer Dashboard](https://developer.spotify.com/)
 
+### 2. InstallDependencies
+Run the following command to install the necessary dependencies:
+```bash
+npm install
+```
+
+### 3. Run the Bot
+Use the following command to start the bot:
+```bash
+node index.js
+```
+
+---
+
 Feel free to join [Playground's Server](https://discord.gg/Zw4SEkd5mr) for additional support.
