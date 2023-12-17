@@ -68,4 +68,3 @@ Additionally, create a `spotify.json` file with the following data:
 * SPOTIFY_APPLICATION_CLIENT_ID & SPOTIFY_APPLICATION_CLIENT_SECRET: Get these from your [Spotify Developer Dashboard](https://developer.spotify.com/)
 
 Feel free to join [Playground's Server](https://discord.gg/Zw4SEkd5mr) for additional support.
-
